@@ -45,7 +45,8 @@ const SearchResultsScreen = () => {
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    padding: 20
+    padding: 20,
+    height: 700
   },
   item: {
     marginBottom: 20
